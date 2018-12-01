@@ -1,0 +1,4 @@
+baseURL: "http://andrewhankinson.info/"
+languageCode: "en-GB"
+title: "Andrew Hankinson"
+publishDir: docs
